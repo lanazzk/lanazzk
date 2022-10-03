@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: ammosovase@gmail.com
 
-### Python / Django / Django Rest Framework / PostgreSQL / Docker / Docker – Compose / HTML / CSS / nginx.
+#### Python / Django / Django Rest Framework / PostgreSQL / Docker / Docker – Compose / HTML / CSS / nginx.
 <!---
 lanazzk/lanazzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
